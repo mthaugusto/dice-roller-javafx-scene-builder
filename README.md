@@ -26,7 +26,7 @@ Dice Roller é um aplicativo JavaFX que permite aos usuários jogar um ou dois d
 ## Como Executar
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/dice-roller.git
+   git clone [https://github.com/seu-usuario/dice-roller.git](https://github.com/mthaugusto/dice-roller-javafx-scene-builder/)
 
 2. Navegue até o diretório do projeto:
    cd dice-roller
