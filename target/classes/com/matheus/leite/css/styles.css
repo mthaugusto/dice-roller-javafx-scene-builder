@@ -1,0 +1,30 @@
+.body {
+    
+}
+
+.rolar-dado {
+    -fx-font: 16px, "Calibri";
+    -fx-background-color: #6c5ce7;
+    -fx-padding: 6px 14px;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-border-radius: 15px;
+    -fx-effect: dropshadow(three-pass-box, rgba(162, 155, 254, 1), 5, 0, 0, 0);
+    -fx-cursor: hand;
+    -fx-transition: 0.5s;
+}   
+
+.qtde-dados {
+    -fx-background-color: #6c5ce7;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.qtde-dados:hover{
+    -fx-background-color: #786bde;
+}
+
+.rolar-dado:hover {
+    -fx-background-color: #786bde;
+}
